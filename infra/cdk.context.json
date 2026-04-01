@@ -1,0 +1,8 @@
+{
+  "availability-zones:account=XXXXXXXXXXXX:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "ami:account=XXXXXXXXXXXX:filters.image-type.0=machine:filters.name.0=ubuntu/images/hvm-ssd-gp3/ubuntu-noble-24.04-amd64-server-*:filters.state.0=available:owners.0=099720109477:region=eu-central-1": "ami-0aad10862ade98f27"
+}

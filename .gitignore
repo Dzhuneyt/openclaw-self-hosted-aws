@@ -1,0 +1,9 @@
+node_modules
+.claude/
+
+# CDK
+infra/*.js
+infra/*.d.ts
+!infra/jest.config.js
+infra/.cdk.staging
+infra/cdk.out
