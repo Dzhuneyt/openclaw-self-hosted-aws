@@ -1,5 +1,8 @@
 # OpenClaw Personal VPS
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/243c5947-f280-4b11-a940-cc28fb57a865" />
+
+
 Self-hosted [OpenClaw](https://docs.openclaw.ai) on AWS EC2, deployed with CDK. Zero public ports — all access via Tailscale mesh VPN.
 
 ## Prerequisites
